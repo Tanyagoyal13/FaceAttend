@@ -1,2 +1,3 @@
-# FaceAttend
-FaceAttend is a Python-based project that utilizes computer vision techniques to automate the process of taking attendance 
+# One_Shot_Learning
+
+## Please refer the document attached to this repo
